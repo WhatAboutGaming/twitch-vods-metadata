@@ -1,0 +1,42 @@
+{
+  "id": "742465374",
+  "stream_id": null,
+  "user_id": "39127626",
+  "user_login": "whataboutgaminglive",
+  "user_name": "WhatAboutGamingLive",
+  "title": "Car Game| !subtember",
+  "description": "",
+  "created_at": "2020-09-16T03:21:36Z",
+  "published_at": "2020-09-16T03:21:36Z",
+  "url": "https://www.twitch.tv/videos/742465374",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/7e8391eba85763413975_whataboutgaminglive_24933878693_5366050302//thumb/thumb742465374-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 2,
+  "language": "en",
+  "type": "highlight",
+  "duration": "1h23m18s",
+  "muted_segments": [
+    {
+      "duration": 360,
+      "offset": 0
+    }
+  ],
+  "created_at_for_paths": "2020_09_16T03_21_36Z",
+  "created_at_millis": 1600226496000,
+  "created_at_year": 2020,
+  "created_at_month": 9,
+  "created_at_date": 16,
+  "created_at_hour": 3,
+  "created_at_minute": 21,
+  "created_at_second": 36,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2020_09_16T03_21_36Z",
+  "published_at_millis": 1600226496000,
+  "published_at_year": 2020,
+  "published_at_month": 9,
+  "published_at_date": 16,
+  "published_at_hour": 3,
+  "published_at_minute": 21,
+  "published_at_second": 36,
+  "published_at_millisecond": 0
+}

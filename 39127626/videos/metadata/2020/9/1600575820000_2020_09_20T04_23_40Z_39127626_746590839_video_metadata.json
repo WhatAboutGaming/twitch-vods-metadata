@@ -1,0 +1,42 @@
+{
+  "id": "746590839",
+  "stream_id": null,
+  "user_id": "39127626",
+  "user_login": "whataboutgaminglive",
+  "user_name": "WhatAboutGamingLive",
+  "title": "A bit of Underground 2 then TrackMania | !subtember",
+  "description": "",
+  "created_at": "2020-09-20T04:23:40Z",
+  "published_at": "2020-09-20T04:23:40Z",
+  "url": "https://www.twitch.tv/videos/746590839",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/8f94d855ba6306f5aebd_whataboutgaminglive_26616954301_1104733986//thumb/thumb746590839-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 21,
+  "language": "en",
+  "type": "highlight",
+  "duration": "2h19m44s",
+  "muted_segments": [
+    {
+      "duration": 360,
+      "offset": 0
+    }
+  ],
+  "created_at_for_paths": "2020_09_20T04_23_40Z",
+  "created_at_millis": 1600575820000,
+  "created_at_year": 2020,
+  "created_at_month": 9,
+  "created_at_date": 20,
+  "created_at_hour": 4,
+  "created_at_minute": 23,
+  "created_at_second": 40,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2020_09_20T04_23_40Z",
+  "published_at_millis": 1600575820000,
+  "published_at_year": 2020,
+  "published_at_month": 9,
+  "published_at_date": 20,
+  "published_at_hour": 4,
+  "published_at_minute": 23,
+  "published_at_second": 40,
+  "published_at_millisecond": 0
+}

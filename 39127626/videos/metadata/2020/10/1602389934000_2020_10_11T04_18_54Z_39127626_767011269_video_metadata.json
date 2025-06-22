@@ -1,0 +1,42 @@
+{
+  "id": "767011269",
+  "stream_id": null,
+  "user_id": "39127626",
+  "user_login": "whataboutgaminglive",
+  "user_name": "WhatAboutGamingLive",
+  "title": "Going for 100% in San Andreas! 88.24%",
+  "description": "",
+  "created_at": "2020-10-11T04:18:54Z",
+  "published_at": "2020-10-11T04:18:54Z",
+  "url": "https://www.twitch.tv/videos/767011269",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/c62a83f6c7b3a3ef8008_whataboutgaminglive_35462670954_5428051067//thumb/thumb767011269-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 17,
+  "language": "en",
+  "type": "highlight",
+  "duration": "2h26m0s",
+  "muted_segments": [
+    {
+      "duration": 360,
+      "offset": 5040
+    }
+  ],
+  "created_at_for_paths": "2020_10_11T04_18_54Z",
+  "created_at_millis": 1602389934000,
+  "created_at_year": 2020,
+  "created_at_month": 10,
+  "created_at_date": 11,
+  "created_at_hour": 4,
+  "created_at_minute": 18,
+  "created_at_second": 54,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2020_10_11T04_18_54Z",
+  "published_at_millis": 1602389934000,
+  "published_at_year": 2020,
+  "published_at_month": 10,
+  "published_at_date": 11,
+  "published_at_hour": 4,
+  "published_at_minute": 18,
+  "published_at_second": 54,
+  "published_at_millisecond": 0
+}
