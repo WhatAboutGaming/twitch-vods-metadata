@@ -1,0 +1,118 @@
+{
+  "id": "1897985017",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)GTA San Andreas on an actual PS2 day 00 hour 12 to hour 24 type !help to learn how to play (Part 2)",
+  "description": "",
+  "created_at": "2023-08-13T20:17:38Z",
+  "published_at": "2023-08-13T20:17:38Z",
+  "url": "https://www.twitch.tv/videos/1897985017",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/24ec173cd60f51e08f47_twitchtriestoplay_50624017183_4679049943//thumb/thumb1897985017-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 13,
+  "language": "en",
+  "type": "highlight",
+  "duration": "7h32m37s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 6303
+    },
+    {
+      "duration": 180,
+      "offset": 6843
+    },
+    {
+      "duration": 180,
+      "offset": 7023
+    },
+    {
+      "duration": 180,
+      "offset": 7203
+    },
+    {
+      "duration": 180,
+      "offset": 7383
+    },
+    {
+      "duration": 180,
+      "offset": 8103
+    },
+    {
+      "duration": 180,
+      "offset": 8463
+    },
+    {
+      "duration": 180,
+      "offset": 9003
+    },
+    {
+      "duration": 180,
+      "offset": 9183
+    },
+    {
+      "duration": 180,
+      "offset": 9363
+    },
+    {
+      "duration": 180,
+      "offset": 9903
+    },
+    {
+      "duration": 180,
+      "offset": 10083
+    },
+    {
+      "duration": 180,
+      "offset": 10263
+    },
+    {
+      "duration": 180,
+      "offset": 10443
+    },
+    {
+      "duration": 180,
+      "offset": 10803
+    },
+    {
+      "duration": 180,
+      "offset": 10983
+    },
+    {
+      "duration": 180,
+      "offset": 11163
+    },
+    {
+      "duration": 180,
+      "offset": 22683
+    },
+    {
+      "duration": 180,
+      "offset": 25563
+    },
+    {
+      "duration": 180,
+      "offset": 26823
+    }
+  ],
+  "created_at_for_paths": "2023_08_13T20_17_38Z",
+  "created_at_millis": 1691957858000,
+  "created_at_year": 2023,
+  "created_at_month": 8,
+  "created_at_date": 13,
+  "created_at_hour": 20,
+  "created_at_minute": 17,
+  "created_at_second": 38,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2023_08_13T20_17_38Z",
+  "published_at_millis": 1691957858000,
+  "published_at_year": 2023,
+  "published_at_month": 8,
+  "published_at_date": 13,
+  "published_at_hour": 20,
+  "published_at_minute": 17,
+  "published_at_second": 38,
+  "published_at_millisecond": 0
+}
