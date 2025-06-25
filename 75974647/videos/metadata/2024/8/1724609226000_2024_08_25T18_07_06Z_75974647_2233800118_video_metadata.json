@@ -1,0 +1,102 @@
+{
+  "id": "2233800118",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Kingdom Hearts 2 Re-Revisit on an actual PS2 day 07 hour 00 to hour 12 (Part 23)",
+  "description": "",
+  "created_at": "2024-08-25T18:07:06Z",
+  "published_at": "2024-08-25T18:07:06Z",
+  "url": "https://www.twitch.tv/videos/2233800118",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/f63117ce9159cd31ab64_twitchtriestoplay_56001073067_4545014593//thumb/thumb2233800118-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 1,
+  "language": "en",
+  "type": "highlight",
+  "duration": "11h11m9s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 2160
+    },
+    {
+      "duration": 180,
+      "offset": 5940
+    },
+    {
+      "duration": 180,
+      "offset": 6120
+    },
+    {
+      "duration": 180,
+      "offset": 7380
+    },
+    {
+      "duration": 181,
+      "offset": 10081
+    },
+    {
+      "duration": 180,
+      "offset": 12422
+    },
+    {
+      "duration": 180,
+      "offset": 17462
+    },
+    {
+      "duration": 180,
+      "offset": 22862
+    },
+    {
+      "duration": 180,
+      "offset": 25382
+    },
+    {
+      "duration": 180,
+      "offset": 26462
+    },
+    {
+      "duration": 180,
+      "offset": 27722
+    },
+    {
+      "duration": 180,
+      "offset": 28982
+    },
+    {
+      "duration": 180,
+      "offset": 32942
+    },
+    {
+      "duration": 180,
+      "offset": 35282
+    },
+    {
+      "duration": 180,
+      "offset": 35642
+    },
+    {
+      "duration": 180,
+      "offset": 36902
+    }
+  ],
+  "created_at_for_paths": "2024_08_25T18_07_06Z",
+  "created_at_millis": 1724609226000,
+  "created_at_year": 2024,
+  "created_at_month": 8,
+  "created_at_date": 25,
+  "created_at_hour": 18,
+  "created_at_minute": 7,
+  "created_at_second": 6,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2024_08_25T18_07_06Z",
+  "published_at_millis": 1724609226000,
+  "published_at_year": 2024,
+  "published_at_month": 8,
+  "published_at_date": 25,
+  "published_at_hour": 18,
+  "published_at_minute": 7,
+  "published_at_second": 6,
+  "published_at_millisecond": 0
+}

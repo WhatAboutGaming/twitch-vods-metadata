@@ -1,0 +1,42 @@
+{
+  "id": "2228156025",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Kingdom Hearts 2 Re-Revisit on an actual PS2 STARTING SOON!!! type !help to learn how to play (Part -3)",
+  "description": "",
+  "created_at": "2024-08-19T04:53:08Z",
+  "published_at": "2024-08-19T04:53:08Z",
+  "url": "https://www.twitch.tv/videos/2228156025",
+  "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png",
+  "viewable": "public",
+  "view_count": 3,
+  "language": "en",
+  "type": "highlight",
+  "duration": "57s",
+  "muted_segments": [
+    {
+      "duration": 57,
+      "offset": 0
+    }
+  ],
+  "created_at_for_paths": "2024_08_19T04_53_08Z",
+  "created_at_millis": 1724043188000,
+  "created_at_year": 2024,
+  "created_at_month": 8,
+  "created_at_date": 19,
+  "created_at_hour": 4,
+  "created_at_minute": 53,
+  "created_at_second": 8,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2024_08_19T04_53_08Z",
+  "published_at_millis": 1724043188000,
+  "published_at_year": 2024,
+  "published_at_month": 8,
+  "published_at_date": 19,
+  "published_at_hour": 4,
+  "published_at_minute": 53,
+  "published_at_second": 8,
+  "published_at_millisecond": 0
+}
