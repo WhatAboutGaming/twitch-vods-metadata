@@ -1,0 +1,86 @@
+{
+  "id": "2254436533",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Kingdom Hearts 2 Re-Revisit on an actual PS2 day 30 hour 00 to hour 12 (Part 101)",
+  "description": "",
+  "created_at": "2024-09-18T19:43:10Z",
+  "published_at": "2024-09-18T19:43:10Z",
+  "url": "https://www.twitch.tv/videos/2254436533",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e834e7b00e8fc5fefd7e_twitchtriestoplay_74023882816_6368334789//thumb/thumb2254436533-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 0,
+  "language": "en",
+  "type": "highlight",
+  "duration": "11h59m46s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 1440
+    },
+    {
+      "duration": 180,
+      "offset": 3960
+    },
+    {
+      "duration": 180,
+      "offset": 12240
+    },
+    {
+      "duration": 180,
+      "offset": 12960
+    },
+    {
+      "duration": 180,
+      "offset": 15840
+    },
+    {
+      "duration": 180,
+      "offset": 17100
+    },
+    {
+      "duration": 180,
+      "offset": 17820
+    },
+    {
+      "duration": 180,
+      "offset": 22860
+    },
+    {
+      "duration": 180,
+      "offset": 25380
+    },
+    {
+      "duration": 180,
+      "offset": 27900
+    },
+    {
+      "duration": 180,
+      "offset": 34200
+    },
+    {
+      "duration": 180,
+      "offset": 40500
+    }
+  ],
+  "created_at_for_paths": "2024_09_18T19_43_10Z",
+  "created_at_millis": 1726688590000,
+  "created_at_year": 2024,
+  "created_at_month": 9,
+  "created_at_date": 18,
+  "created_at_hour": 19,
+  "created_at_minute": 43,
+  "created_at_second": 10,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2024_09_18T19_43_10Z",
+  "published_at_millis": 1726688590000,
+  "published_at_year": 2024,
+  "published_at_month": 9,
+  "published_at_date": 18,
+  "published_at_hour": 19,
+  "published_at_minute": 43,
+  "published_at_second": 10,
+  "published_at_millisecond": 0
+}

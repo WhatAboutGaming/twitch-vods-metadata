@@ -1,0 +1,42 @@
+{
+  "id": "2251601627",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Kingdom Hearts 2 Re-Revisit on an actual PS2 day 28 hour 00 to hour 12 (Part 91)",
+  "description": "",
+  "created_at": "2024-09-15T08:42:39Z",
+  "published_at": "2024-09-15T08:42:39Z",
+  "url": "https://www.twitch.tv/videos/2251601627",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d647c5535f6a3ce184ea_twitchtriestoplay_73283951906_6884855537//thumb/thumb2251601627-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 1,
+  "language": "en",
+  "type": "highlight",
+  "duration": "3h17m39s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 1800
+    }
+  ],
+  "created_at_for_paths": "2024_09_15T08_42_39Z",
+  "created_at_millis": 1726389759000,
+  "created_at_year": 2024,
+  "created_at_month": 9,
+  "created_at_date": 15,
+  "created_at_hour": 8,
+  "created_at_minute": 42,
+  "created_at_second": 39,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2024_09_15T08_42_39Z",
+  "published_at_millis": 1726389759000,
+  "published_at_year": 2024,
+  "published_at_month": 9,
+  "published_at_date": 15,
+  "published_at_hour": 8,
+  "published_at_minute": 42,
+  "published_at_second": 39,
+  "published_at_millisecond": 0
+}
