@@ -1,0 +1,46 @@
+{
+  "id": "1644555206",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays (Viewers play/Chat plays) Chrono Trigger on an actual Wii Day 6, Hour 0 to Hour 12, type !help to learn how to play (Part 15)",
+  "description": "",
+  "created_at": "2022-11-05T21:14:58Z",
+  "published_at": "2022-11-05T21:14:58Z",
+  "url": "https://www.twitch.tv/videos/1644555206",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/4ac98a1e4c47a0c6ca63_twitchtriestoplay_30029495095_7457090970//thumb/thumb1644555206-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 1,
+  "language": "en",
+  "type": "highlight",
+  "duration": "6h56m26s",
+  "muted_segments": [
+    {
+      "duration": 360,
+      "offset": 15120
+    },
+    {
+      "duration": 360,
+      "offset": 15480
+    }
+  ],
+  "created_at_for_paths": "2022_11_05T21_14_58Z",
+  "created_at_millis": 1667682898000,
+  "created_at_year": 2022,
+  "created_at_month": 11,
+  "created_at_date": 5,
+  "created_at_hour": 21,
+  "created_at_minute": 14,
+  "created_at_second": 58,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2022_11_05T21_14_58Z",
+  "published_at_millis": 1667682898000,
+  "published_at_year": 2022,
+  "published_at_month": 11,
+  "published_at_date": 5,
+  "published_at_hour": 21,
+  "published_at_minute": 14,
+  "published_at_second": 58,
+  "published_at_millisecond": 0
+}

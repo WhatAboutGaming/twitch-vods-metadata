@@ -1,0 +1,142 @@
+{
+  "id": "1639206639",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays (Viewers play/Chat plays) Chrono Trigger on an actual Wii Day 0, Hour 0 to Hour 24, type !help to learn how to play (Part 0)",
+  "description": "",
+  "created_at": "2022-10-31T00:27:49Z",
+  "published_at": "2022-10-31T00:27:49Z",
+  "url": "https://www.twitch.tv/videos/1639206639",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/8aa8b9521b2e27af3030_twitchtriestoplay_58436994916_5736795869//thumb/thumb1639206639-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 3,
+  "language": "en",
+  "type": "highlight",
+  "duration": "23h59m31s",
+  "muted_segments": [
+    {
+      "duration": 360,
+      "offset": 12600
+    },
+    {
+      "duration": 360,
+      "offset": 13680
+    },
+    {
+      "duration": 360,
+      "offset": 14760
+    },
+    {
+      "duration": 360,
+      "offset": 15840
+    },
+    {
+      "duration": 360,
+      "offset": 18000
+    },
+    {
+      "duration": 360,
+      "offset": 19080
+    },
+    {
+      "duration": 360,
+      "offset": 22680
+    },
+    {
+      "duration": 360,
+      "offset": 23760
+    },
+    {
+      "duration": 360,
+      "offset": 24840
+    },
+    {
+      "duration": 360,
+      "offset": 25920
+    },
+    {
+      "duration": 360,
+      "offset": 29160
+    },
+    {
+      "duration": 360,
+      "offset": 31680
+    },
+    {
+      "duration": 360,
+      "offset": 32760
+    },
+    {
+      "duration": 360,
+      "offset": 33840
+    },
+    {
+      "duration": 360,
+      "offset": 34920
+    },
+    {
+      "duration": 360,
+      "offset": 37080
+    },
+    {
+      "duration": 360,
+      "offset": 38160
+    },
+    {
+      "duration": 360,
+      "offset": 39240
+    },
+    {
+      "duration": 360,
+      "offset": 41760
+    },
+    {
+      "duration": 361,
+      "offset": 42840
+    },
+    {
+      "duration": 360,
+      "offset": 43921
+    },
+    {
+      "duration": 360,
+      "offset": 45001
+    },
+    {
+      "duration": 360,
+      "offset": 47161
+    },
+    {
+      "duration": 360,
+      "offset": 51841
+    },
+    {
+      "duration": 360,
+      "offset": 54001
+    },
+    {
+      "duration": 360,
+      "offset": 56161
+    }
+  ],
+  "created_at_for_paths": "2022_10_31T00_27_49Z",
+  "created_at_millis": 1667176069000,
+  "created_at_year": 2022,
+  "created_at_month": 10,
+  "created_at_date": 31,
+  "created_at_hour": 0,
+  "created_at_minute": 27,
+  "created_at_second": 49,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2022_10_31T00_27_49Z",
+  "published_at_millis": 1667176069000,
+  "published_at_year": 2022,
+  "published_at_month": 10,
+  "published_at_date": 31,
+  "published_at_hour": 0,
+  "published_at_minute": 27,
+  "published_at_second": 49,
+  "published_at_millisecond": 0
+}
