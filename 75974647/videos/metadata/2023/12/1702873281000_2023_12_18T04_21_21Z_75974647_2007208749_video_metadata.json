@@ -1,0 +1,46 @@
+{
+  "id": "2007208749",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Kingdom Hearts 2 on an actual PS2 STARTING SOON!!! type !help to learn how to play (Part -4)",
+  "description": "",
+  "created_at": "2023-12-18T04:21:21Z",
+  "published_at": "2023-12-18T04:21:21Z",
+  "url": "https://www.twitch.tv/videos/2007208749",
+  "thumbnail_url": "https://vod-secure.twitch.tv/_404/404_processing_%{width}x%{height}.png",
+  "viewable": "public",
+  "view_count": 8,
+  "language": "en",
+  "type": "highlight",
+  "duration": "5m6s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 0
+    },
+    {
+      "duration": 126,
+      "offset": 180
+    }
+  ],
+  "created_at_for_paths": "2023_12_18T04_21_21Z",
+  "created_at_millis": 1702873281000,
+  "created_at_year": 2023,
+  "created_at_month": 12,
+  "created_at_date": 18,
+  "created_at_hour": 4,
+  "created_at_minute": 21,
+  "created_at_second": 21,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2023_12_18T04_21_21Z",
+  "published_at_millis": 1702873281000,
+  "published_at_year": 2023,
+  "published_at_month": 12,
+  "published_at_date": 18,
+  "published_at_hour": 4,
+  "published_at_minute": 21,
+  "published_at_second": 21,
+  "published_at_millisecond": 0
+}

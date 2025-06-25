@@ -1,0 +1,154 @@
+{
+  "id": "2008034941",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Kingdom Hearts 2 on an actual PS2 day 01 hour 12 to hour 24 type !help to learn how to play (Part 5)",
+  "description": "",
+  "created_at": "2023-12-19T03:45:19Z",
+  "published_at": "2023-12-19T03:45:19Z",
+  "url": "https://www.twitch.tv/videos/2008034941",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/7bd337bc467545627865_twitchtriestoplay_19170036345_9544953745//thumb/thumb2008034941-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 1,
+  "language": "en",
+  "type": "highlight",
+  "duration": "8h30m32s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 1800
+    },
+    {
+      "duration": 180,
+      "offset": 2520
+    },
+    {
+      "duration": 180,
+      "offset": 3060
+    },
+    {
+      "duration": 180,
+      "offset": 4860
+    },
+    {
+      "duration": 180,
+      "offset": 5220
+    },
+    {
+      "duration": 180,
+      "offset": 5940
+    },
+    {
+      "duration": 180,
+      "offset": 6120
+    },
+    {
+      "duration": 180,
+      "offset": 8100
+    },
+    {
+      "duration": 180,
+      "offset": 8280
+    },
+    {
+      "duration": 180,
+      "offset": 8460
+    },
+    {
+      "duration": 180,
+      "offset": 9000
+    },
+    {
+      "duration": 180,
+      "offset": 9180
+    },
+    {
+      "duration": 180,
+      "offset": 9360
+    },
+    {
+      "duration": 180,
+      "offset": 10080
+    },
+    {
+      "duration": 180,
+      "offset": 10260
+    },
+    {
+      "duration": 180,
+      "offset": 10440
+    },
+    {
+      "duration": 180,
+      "offset": 10980
+    },
+    {
+      "duration": 180,
+      "offset": 11160
+    },
+    {
+      "duration": 180,
+      "offset": 11340
+    },
+    {
+      "duration": 180,
+      "offset": 12060
+    },
+    {
+      "duration": 180,
+      "offset": 12240
+    },
+    {
+      "duration": 180,
+      "offset": 12420
+    },
+    {
+      "duration": 180,
+      "offset": 12960
+    },
+    {
+      "duration": 180,
+      "offset": 13140
+    },
+    {
+      "duration": 180,
+      "offset": 13320
+    },
+    {
+      "duration": 180,
+      "offset": 13680
+    },
+    {
+      "duration": 180,
+      "offset": 16920
+    },
+    {
+      "duration": 180,
+      "offset": 17100
+    },
+    {
+      "duration": 180,
+      "offset": 17280
+    }
+  ],
+  "created_at_for_paths": "2023_12_19T03_45_19Z",
+  "created_at_millis": 1702957519000,
+  "created_at_year": 2023,
+  "created_at_month": 12,
+  "created_at_date": 19,
+  "created_at_hour": 3,
+  "created_at_minute": 45,
+  "created_at_second": 19,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2023_12_19T03_45_19Z",
+  "published_at_millis": 1702957519000,
+  "published_at_year": 2023,
+  "published_at_month": 12,
+  "published_at_date": 19,
+  "published_at_hour": 3,
+  "published_at_minute": 45,
+  "published_at_second": 19,
+  "published_at_millisecond": 0
+}
