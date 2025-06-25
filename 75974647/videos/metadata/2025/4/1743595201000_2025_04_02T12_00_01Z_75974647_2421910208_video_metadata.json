@@ -1,0 +1,90 @@
+{
+  "id": "2421910208",
+  "stream_id": "314623086964",
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Earthbound on an actual Wii(SNES Emulator) day 03 hour 12 to hour 24 type !help to learn how to play",
+  "description": "",
+  "created_at": "2025-04-02T12:00:01Z",
+  "published_at": "2025-04-02T12:00:01Z",
+  "url": "https://www.twitch.tv/videos/2421910208",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/4a38993a2695bf8b029b_twitchtriestoplay_314623086964_1743595193//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 35,
+  "language": "en",
+  "type": "archive",
+  "duration": "11h59m40s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 11700
+    },
+    {
+      "duration": 180,
+      "offset": 14400
+    },
+    {
+      "duration": 180,
+      "offset": 15120
+    },
+    {
+      "duration": 180,
+      "offset": 15840
+    },
+    {
+      "duration": 180,
+      "offset": 17820
+    },
+    {
+      "duration": 180,
+      "offset": 18540
+    },
+    {
+      "duration": 180,
+      "offset": 19260
+    },
+    {
+      "duration": 180,
+      "offset": 22860
+    },
+    {
+      "duration": 180,
+      "offset": 23580
+    },
+    {
+      "duration": 180,
+      "offset": 24300
+    },
+    {
+      "duration": 180,
+      "offset": 28440
+    },
+    {
+      "duration": 180,
+      "offset": 29700
+    },
+    {
+      "duration": 180,
+      "offset": 39240
+    }
+  ],
+  "created_at_for_paths": "2025_04_02T12_00_01Z",
+  "created_at_millis": 1743595201000,
+  "created_at_year": 2025,
+  "created_at_month": 4,
+  "created_at_date": 2,
+  "created_at_hour": 12,
+  "created_at_minute": 0,
+  "created_at_second": 1,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_04_02T12_00_01Z",
+  "published_at_millis": 1743595201000,
+  "published_at_year": 2025,
+  "published_at_month": 4,
+  "published_at_date": 2,
+  "published_at_hour": 12,
+  "published_at_minute": 0,
+  "published_at_second": 1,
+  "published_at_millisecond": 0
+}

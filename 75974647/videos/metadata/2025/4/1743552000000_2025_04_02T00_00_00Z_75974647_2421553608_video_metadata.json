@@ -1,0 +1,98 @@
+{
+  "id": "2421553608",
+  "stream_id": "314619855860",
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Earthbound on an actual Wii(SNES Emulator) day 03 hour 00 to hour 12 type !help to learn how to play",
+  "description": "",
+  "created_at": "2025-04-02T00:00:00Z",
+  "published_at": "2025-04-02T00:00:00Z",
+  "url": "https://www.twitch.tv/videos/2421553608",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d8f4dfc2a741b5f9abf8_twitchtriestoplay_314619855860_1743551992//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 30,
+  "language": "en",
+  "type": "archive",
+  "duration": "11h59m40s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 900
+    },
+    {
+      "duration": 180,
+      "offset": 1620
+    },
+    {
+      "duration": 180,
+      "offset": 2340
+    },
+    {
+      "duration": 180,
+      "offset": 3960
+    },
+    {
+      "duration": 180,
+      "offset": 4680
+    },
+    {
+      "duration": 180,
+      "offset": 5400
+    },
+    {
+      "duration": 180,
+      "offset": 7380
+    },
+    {
+      "duration": 180,
+      "offset": 8100
+    },
+    {
+      "duration": 180,
+      "offset": 8820
+    },
+    {
+      "duration": 180,
+      "offset": 12960
+    },
+    {
+      "duration": 180,
+      "offset": 13680
+    },
+    {
+      "duration": 180,
+      "offset": 16380
+    },
+    {
+      "duration": 180,
+      "offset": 17100
+    },
+    {
+      "duration": 180,
+      "offset": 19800
+    },
+    {
+      "duration": 180,
+      "offset": 34740
+    }
+  ],
+  "created_at_for_paths": "2025_04_02T00_00_00Z",
+  "created_at_millis": 1743552000000,
+  "created_at_year": 2025,
+  "created_at_month": 4,
+  "created_at_date": 2,
+  "created_at_hour": 0,
+  "created_at_minute": 0,
+  "created_at_second": 0,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_04_02T00_00_00Z",
+  "published_at_millis": 1743552000000,
+  "published_at_year": 2025,
+  "published_at_month": 4,
+  "published_at_date": 2,
+  "published_at_hour": 0,
+  "published_at_minute": 0,
+  "published_at_second": 0,
+  "published_at_millisecond": 0
+}

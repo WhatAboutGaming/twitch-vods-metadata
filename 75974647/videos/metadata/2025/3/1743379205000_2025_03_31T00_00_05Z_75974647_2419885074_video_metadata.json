@@ -1,0 +1,82 @@
+{
+  "id": "2419885074",
+  "stream_id": "314605361140",
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Earthbound on an actual Wii(SNES Emulator) day 01 hour 00 to hour 12 type !help to learn how to play",
+  "description": "",
+  "created_at": "2025-03-31T00:00:05Z",
+  "published_at": "2025-03-31T00:00:05Z",
+  "url": "https://www.twitch.tv/videos/2419885074",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/1b0ff9468090441d9f88_twitchtriestoplay_314605361140_1743379198//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 28,
+  "language": "en",
+  "type": "archive",
+  "duration": "11h59m40s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 3600
+    },
+    {
+      "duration": 180,
+      "offset": 4320
+    },
+    {
+      "duration": 180,
+      "offset": 6300
+    },
+    {
+      "duration": 180,
+      "offset": 7020
+    },
+    {
+      "duration": 180,
+      "offset": 7740
+    },
+    {
+      "duration": 180,
+      "offset": 10440
+    },
+    {
+      "duration": 180,
+      "offset": 14940
+    },
+    {
+      "duration": 180,
+      "offset": 15660
+    },
+    {
+      "duration": 180,
+      "offset": 16380
+    },
+    {
+      "duration": 180,
+      "offset": 19080
+    },
+    {
+      "duration": 180,
+      "offset": 19800
+    }
+  ],
+  "created_at_for_paths": "2025_03_31T00_00_05Z",
+  "created_at_millis": 1743379205000,
+  "created_at_year": 2025,
+  "created_at_month": 3,
+  "created_at_date": 31,
+  "created_at_hour": 0,
+  "created_at_minute": 0,
+  "created_at_second": 5,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_03_31T00_00_05Z",
+  "published_at_millis": 1743379205000,
+  "published_at_year": 2025,
+  "published_at_month": 3,
+  "published_at_date": 31,
+  "published_at_hour": 0,
+  "published_at_minute": 0,
+  "published_at_second": 5,
+  "published_at_millisecond": 0
+}

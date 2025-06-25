@@ -1,0 +1,70 @@
+{
+  "id": "2422421393",
+  "stream_id": "314627370996",
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)Earthbound on an actual Wii(SNES Emulator) day 04 hour 00 to hour 12 type !help to learn how to play",
+  "description": "",
+  "created_at": "2025-04-03T00:00:02Z",
+  "published_at": "2025-04-03T00:00:02Z",
+  "url": "https://www.twitch.tv/videos/2422421393",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/355b690b5a00627bea9d_twitchtriestoplay_314627370996_1743638395//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 36,
+  "language": "en",
+  "type": "archive",
+  "duration": "11h59m40s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 23220
+    },
+    {
+      "duration": 180,
+      "offset": 30600
+    },
+    {
+      "duration": 180,
+      "offset": 31320
+    },
+    {
+      "duration": 180,
+      "offset": 32040
+    },
+    {
+      "duration": 180,
+      "offset": 39600
+    },
+    {
+      "duration": 180,
+      "offset": 40320
+    },
+    {
+      "duration": 180,
+      "offset": 41040
+    },
+    {
+      "duration": 160,
+      "offset": 43020
+    }
+  ],
+  "created_at_for_paths": "2025_04_03T00_00_02Z",
+  "created_at_millis": 1743638402000,
+  "created_at_year": 2025,
+  "created_at_month": 4,
+  "created_at_date": 3,
+  "created_at_hour": 0,
+  "created_at_minute": 0,
+  "created_at_second": 2,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_04_03T00_00_02Z",
+  "published_at_millis": 1743638402000,
+  "published_at_year": 2025,
+  "published_at_month": 4,
+  "published_at_date": 3,
+  "published_at_hour": 0,
+  "published_at_minute": 0,
+  "published_at_second": 2,
+  "published_at_millisecond": 0
+}
