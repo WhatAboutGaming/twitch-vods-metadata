@@ -1,0 +1,50 @@
+{
+  "id": "1807179491",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)TLOZ:ALTTP on an actual Wii day 25 hour 12 to hour 24 type !help to learn how to play (Part 60)",
+  "description": "",
+  "created_at": "2023-04-29T23:02:41Z",
+  "published_at": "2023-04-29T23:02:41Z",
+  "url": "https://www.twitch.tv/videos/1807179491",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/f3b68a9aa3489bf929f4_twitchtriestoplay_33702990348_9007179433//thumb/thumb1807179491-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 0,
+  "language": "en",
+  "type": "highlight",
+  "duration": "23h59m45s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 14220
+    },
+    {
+      "duration": 180,
+      "offset": 14580
+    },
+    {
+      "duration": 180,
+      "offset": 14940
+    }
+  ],
+  "created_at_for_paths": "2023_04_29T23_02_41Z",
+  "created_at_millis": 1682809361000,
+  "created_at_year": 2023,
+  "created_at_month": 4,
+  "created_at_date": 29,
+  "created_at_hour": 23,
+  "created_at_minute": 2,
+  "created_at_second": 41,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2023_04_29T23_02_41Z",
+  "published_at_millis": 1682809361000,
+  "published_at_year": 2023,
+  "published_at_month": 4,
+  "published_at_date": 29,
+  "published_at_hour": 23,
+  "published_at_minute": 2,
+  "published_at_second": 41,
+  "published_at_millisecond": 0
+}

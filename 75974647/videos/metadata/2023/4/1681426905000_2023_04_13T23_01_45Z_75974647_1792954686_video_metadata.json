@@ -1,0 +1,46 @@
+{
+  "id": "1792954686",
+  "stream_id": null,
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Twitch Plays(Viewers play/Chat plays)TLOZ:A Link to the Past on an actual Wii day 10 hour 00 to 12 type !help to learn how to play (Part 22)",
+  "description": "",
+  "created_at": "2023-04-13T23:01:45Z",
+  "published_at": "2023-04-13T23:01:45Z",
+  "url": "https://www.twitch.tv/videos/1792954686",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/6ab10231309c4fb77498_twitchtriestoplay_98779005967_4218755986//thumb/thumb1792954686-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 0,
+  "language": "en",
+  "type": "highlight",
+  "duration": "11h59m45s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 23760
+    },
+    {
+      "duration": 180,
+      "offset": 25920
+    }
+  ],
+  "created_at_for_paths": "2023_04_13T23_01_45Z",
+  "created_at_millis": 1681426905000,
+  "created_at_year": 2023,
+  "created_at_month": 4,
+  "created_at_date": 13,
+  "created_at_hour": 23,
+  "created_at_minute": 1,
+  "created_at_second": 45,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2023_04_13T23_01_45Z",
+  "published_at_millis": 1681426905000,
+  "published_at_year": 2023,
+  "published_at_month": 4,
+  "published_at_date": 13,
+  "published_at_hour": 23,
+  "published_at_minute": 1,
+  "published_at_second": 45,
+  "published_at_millisecond": 0
+}
