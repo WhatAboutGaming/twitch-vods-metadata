@@ -21,10 +21,10 @@ A compilation of metadata of videos and clips hosted on the Twitch channels What
 17) Some videos might have wrong ID or title, that's because videos have been erroneously uploaded with the wrong title or video ID, but multiple copies of the same video with the right ID exist.
 18) Some videos with different IDs might be duplicates and videos with the same ID might also be duplicates because videos have been uploaded multiple times to YouTube.
 
-[WhatAboutGamingLive Videos Lists Sorted by Month](https://github.com/WhatAboutGaming/twitch-vods-metadata/blob/main/39127626_videos.md)
+[WhatAboutGamingLive Videos Lists Sorted by Month](39127626_videos.md)
 
-[WhatAboutGamingLive Clips Lists Sorted by Month](https://github.com/WhatAboutGaming/twitch-vods-metadata/blob/main/39127626_clips.md)
+[WhatAboutGamingLive Clips Lists Sorted by Month](39127626_clips.md)
 
-[TwitchTriesToPlay Videos Lists Sorted by Month](https://github.com/WhatAboutGaming/twitch-vods-metadata/blob/main/75974647_videos.md)
+[TwitchTriesToPlay Videos Lists Sorted by Month](75974647_videos.md)
 
-[TwitchTriesToPlay Clips Lists Sorted by Month](https://github.com/WhatAboutGaming/twitch-vods-metadata/blob/main/75974647_clips.md)
+[TwitchTriesToPlay Clips Lists Sorted by Month](75974647_clips.md)
