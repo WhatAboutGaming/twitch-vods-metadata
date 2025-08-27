@@ -1,0 +1,266 @@
+{
+  "id": "2525480357",
+  "stream_id": "315562907124",
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Final Run:Twitch Plays(Viewers play/Chat plays)Kingdom Hearts on an actual PS2 day 02 hour 12 to hour 24 type !help to learn how to play",
+  "description": "",
+  "created_at": "2025-07-29T12:00:15Z",
+  "published_at": "2025-07-29T12:00:15Z",
+  "url": "https://www.twitch.tv/videos/2525480357",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/4e8e3d186ba2bae4617d_twitchtriestoplay_315562907124_1753790408//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 0,
+  "language": "en",
+  "type": "archive",
+  "duration": "11h59m30s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 0
+    },
+    {
+      "duration": 180,
+      "offset": 360
+    },
+    {
+      "duration": 180,
+      "offset": 1080
+    },
+    {
+      "duration": 180,
+      "offset": 1800
+    },
+    {
+      "duration": 180,
+      "offset": 2160
+    },
+    {
+      "duration": 180,
+      "offset": 2880
+    },
+    {
+      "duration": 180,
+      "offset": 3420
+    },
+    {
+      "duration": 180,
+      "offset": 3600
+    },
+    {
+      "duration": 180,
+      "offset": 3960
+    },
+    {
+      "duration": 180,
+      "offset": 4140
+    },
+    {
+      "duration": 180,
+      "offset": 4320
+    },
+    {
+      "duration": 180,
+      "offset": 5040
+    },
+    {
+      "duration": 180,
+      "offset": 5580
+    },
+    {
+      "duration": 180,
+      "offset": 5760
+    },
+    {
+      "duration": 180,
+      "offset": 6120
+    },
+    {
+      "duration": 180,
+      "offset": 6480
+    },
+    {
+      "duration": 180,
+      "offset": 6840
+    },
+    {
+      "duration": 180,
+      "offset": 7200
+    },
+    {
+      "duration": 180,
+      "offset": 7380
+    },
+    {
+      "duration": 180,
+      "offset": 9180
+    },
+    {
+      "duration": 180,
+      "offset": 9900
+    },
+    {
+      "duration": 180,
+      "offset": 11340
+    },
+    {
+      "duration": 180,
+      "offset": 15660
+    },
+    {
+      "duration": 180,
+      "offset": 15840
+    },
+    {
+      "duration": 180,
+      "offset": 17820
+    },
+    {
+      "duration": 180,
+      "offset": 18900
+    },
+    {
+      "duration": 180,
+      "offset": 21060
+    },
+    {
+      "duration": 180,
+      "offset": 21780
+    },
+    {
+      "duration": 180,
+      "offset": 22140
+    },
+    {
+      "duration": 180,
+      "offset": 22500
+    },
+    {
+      "duration": 180,
+      "offset": 23220
+    },
+    {
+      "duration": 180,
+      "offset": 23940
+    },
+    {
+      "duration": 180,
+      "offset": 24480
+    },
+    {
+      "duration": 180,
+      "offset": 24660
+    },
+    {
+      "duration": 180,
+      "offset": 25380
+    },
+    {
+      "duration": 180,
+      "offset": 25920
+    },
+    {
+      "duration": 180,
+      "offset": 26100
+    },
+    {
+      "duration": 180,
+      "offset": 26460
+    },
+    {
+      "duration": 180,
+      "offset": 26640
+    },
+    {
+      "duration": 180,
+      "offset": 26820
+    },
+    {
+      "duration": 180,
+      "offset": 27180
+    },
+    {
+      "duration": 180,
+      "offset": 27540
+    },
+    {
+      "duration": 180,
+      "offset": 28260
+    },
+    {
+      "duration": 180,
+      "offset": 28980
+    },
+    {
+      "duration": 180,
+      "offset": 29700
+    },
+    {
+      "duration": 180,
+      "offset": 30420
+    },
+    {
+      "duration": 180,
+      "offset": 30780
+    },
+    {
+      "duration": 180,
+      "offset": 31140
+    },
+    {
+      "duration": 180,
+      "offset": 31860
+    },
+    {
+      "duration": 180,
+      "offset": 32400
+    },
+    {
+      "duration": 180,
+      "offset": 32580
+    },
+    {
+      "duration": 180,
+      "offset": 33120
+    },
+    {
+      "duration": 180,
+      "offset": 33300
+    },
+    {
+      "duration": 180,
+      "offset": 34020
+    },
+    {
+      "duration": 180,
+      "offset": 38160
+    },
+    {
+      "duration": 180,
+      "offset": 38880
+    },
+    {
+      "duration": 180,
+      "offset": 42660
+    }
+  ],
+  "created_at_for_paths": "2025_07_29T12_00_15Z",
+  "created_at_millis": 1753790415000,
+  "created_at_year": 2025,
+  "created_at_month": 7,
+  "created_at_date": 29,
+  "created_at_hour": 12,
+  "created_at_minute": 0,
+  "created_at_second": 15,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_07_29T12_00_15Z",
+  "published_at_millis": 1753790415000,
+  "published_at_year": 2025,
+  "published_at_month": 7,
+  "published_at_date": 29,
+  "published_at_hour": 12,
+  "published_at_minute": 0,
+  "published_at_second": 15,
+  "published_at_millisecond": 0
+}

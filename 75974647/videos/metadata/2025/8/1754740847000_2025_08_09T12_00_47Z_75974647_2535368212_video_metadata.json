@@ -1,0 +1,42 @@
+{
+  "id": "2535368212",
+  "stream_id": "315663412341",
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Final Run:Twitch Plays(Viewers play/Chat plays)Kingdom Hearts on an actual PS2 day 13 hour 12 to hour 24 type !help to learn how to play",
+  "description": "",
+  "created_at": "2025-08-09T12:00:47Z",
+  "published_at": "2025-08-09T12:00:47Z",
+  "url": "https://www.twitch.tv/videos/2535368212",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c3b38f55e7f9c99364ae_twitchtriestoplay_315663412341_1754740839//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 0,
+  "language": "en",
+  "type": "archive",
+  "duration": "11h59m40s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 25920
+    }
+  ],
+  "created_at_for_paths": "2025_08_09T12_00_47Z",
+  "created_at_millis": 1754740847000,
+  "created_at_year": 2025,
+  "created_at_month": 8,
+  "created_at_date": 9,
+  "created_at_hour": 12,
+  "created_at_minute": 0,
+  "created_at_second": 47,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_08_09T12_00_47Z",
+  "published_at_millis": 1754740847000,
+  "published_at_year": 2025,
+  "published_at_month": 8,
+  "published_at_date": 9,
+  "published_at_hour": 12,
+  "published_at_minute": 0,
+  "published_at_second": 47,
+  "published_at_millisecond": 0
+}

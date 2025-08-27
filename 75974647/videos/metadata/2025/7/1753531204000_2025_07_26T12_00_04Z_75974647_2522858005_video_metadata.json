@@ -1,0 +1,498 @@
+{
+  "id": "2522858005",
+  "stream_id": "315536644724",
+  "user_id": "75974647",
+  "user_login": "twitchtriestoplay",
+  "user_name": "TwitchTriesToPlay",
+  "title": "Final Run:Twitch Plays(Viewers play/Chat plays)Kingdom Hearts on an actual PS2 STARTING SOON!!! type !help to learn how to play",
+  "description": "",
+  "created_at": "2025-07-26T12:00:04Z",
+  "published_at": "2025-07-26T12:00:04Z",
+  "url": "https://www.twitch.tv/videos/2522858005",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/96f3b953c1713b1a9a42_twitchtriestoplay_315536644724_1753531197//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 12,
+  "language": "en",
+  "type": "archive",
+  "duration": "7h35m20s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 0
+    },
+    {
+      "duration": 180,
+      "offset": 180
+    },
+    {
+      "duration": 180,
+      "offset": 540
+    },
+    {
+      "duration": 180,
+      "offset": 720
+    },
+    {
+      "duration": 180,
+      "offset": 1080
+    },
+    {
+      "duration": 180,
+      "offset": 1260
+    },
+    {
+      "duration": 180,
+      "offset": 1620
+    },
+    {
+      "duration": 180,
+      "offset": 1800
+    },
+    {
+      "duration": 180,
+      "offset": 1980
+    },
+    {
+      "duration": 180,
+      "offset": 2160
+    },
+    {
+      "duration": 180,
+      "offset": 2340
+    },
+    {
+      "duration": 180,
+      "offset": 2700
+    },
+    {
+      "duration": 180,
+      "offset": 2880
+    },
+    {
+      "duration": 180,
+      "offset": 3240
+    },
+    {
+      "duration": 180,
+      "offset": 3420
+    },
+    {
+      "duration": 180,
+      "offset": 3780
+    },
+    {
+      "duration": 180,
+      "offset": 3960
+    },
+    {
+      "duration": 180,
+      "offset": 4320
+    },
+    {
+      "duration": 180,
+      "offset": 4500
+    },
+    {
+      "duration": 180,
+      "offset": 4860
+    },
+    {
+      "duration": 180,
+      "offset": 5040
+    },
+    {
+      "duration": 180,
+      "offset": 5220
+    },
+    {
+      "duration": 180,
+      "offset": 5400
+    },
+    {
+      "duration": 180,
+      "offset": 5580
+    },
+    {
+      "duration": 180,
+      "offset": 5760
+    },
+    {
+      "duration": 180,
+      "offset": 5940
+    },
+    {
+      "duration": 180,
+      "offset": 6120
+    },
+    {
+      "duration": 180,
+      "offset": 6300
+    },
+    {
+      "duration": 180,
+      "offset": 6660
+    },
+    {
+      "duration": 180,
+      "offset": 6840
+    },
+    {
+      "duration": 180,
+      "offset": 7200
+    },
+    {
+      "duration": 180,
+      "offset": 7380
+    },
+    {
+      "duration": 180,
+      "offset": 7740
+    },
+    {
+      "duration": 180,
+      "offset": 7920
+    },
+    {
+      "duration": 180,
+      "offset": 8100
+    },
+    {
+      "duration": 180,
+      "offset": 8280
+    },
+    {
+      "duration": 180,
+      "offset": 8460
+    },
+    {
+      "duration": 180,
+      "offset": 8820
+    },
+    {
+      "duration": 180,
+      "offset": 9000
+    },
+    {
+      "duration": 180,
+      "offset": 9360
+    },
+    {
+      "duration": 180,
+      "offset": 9540
+    },
+    {
+      "duration": 180,
+      "offset": 9900
+    },
+    {
+      "duration": 180,
+      "offset": 10080
+    },
+    {
+      "duration": 180,
+      "offset": 10440
+    },
+    {
+      "duration": 180,
+      "offset": 10620
+    },
+    {
+      "duration": 180,
+      "offset": 10980
+    },
+    {
+      "duration": 180,
+      "offset": 11160
+    },
+    {
+      "duration": 180,
+      "offset": 11340
+    },
+    {
+      "duration": 180,
+      "offset": 11520
+    },
+    {
+      "duration": 180,
+      "offset": 11700
+    },
+    {
+      "duration": 180,
+      "offset": 11880
+    },
+    {
+      "duration": 180,
+      "offset": 12060
+    },
+    {
+      "duration": 180,
+      "offset": 12240
+    },
+    {
+      "duration": 180,
+      "offset": 12420
+    },
+    {
+      "duration": 180,
+      "offset": 12780
+    },
+    {
+      "duration": 180,
+      "offset": 12960
+    },
+    {
+      "duration": 180,
+      "offset": 13320
+    },
+    {
+      "duration": 180,
+      "offset": 13500
+    },
+    {
+      "duration": 180,
+      "offset": 13860
+    },
+    {
+      "duration": 180,
+      "offset": 14040
+    },
+    {
+      "duration": 180,
+      "offset": 14220
+    },
+    {
+      "duration": 180,
+      "offset": 14400
+    },
+    {
+      "duration": 180,
+      "offset": 14580
+    },
+    {
+      "duration": 180,
+      "offset": 14940
+    },
+    {
+      "duration": 180,
+      "offset": 15120
+    },
+    {
+      "duration": 180,
+      "offset": 15480
+    },
+    {
+      "duration": 180,
+      "offset": 15660
+    },
+    {
+      "duration": 180,
+      "offset": 16020
+    },
+    {
+      "duration": 180,
+      "offset": 16200
+    },
+    {
+      "duration": 180,
+      "offset": 16560
+    },
+    {
+      "duration": 180,
+      "offset": 16740
+    },
+    {
+      "duration": 180,
+      "offset": 17100
+    },
+    {
+      "duration": 180,
+      "offset": 17280
+    },
+    {
+      "duration": 180,
+      "offset": 17460
+    },
+    {
+      "duration": 180,
+      "offset": 17640
+    },
+    {
+      "duration": 180,
+      "offset": 17820
+    },
+    {
+      "duration": 180,
+      "offset": 18000
+    },
+    {
+      "duration": 180,
+      "offset": 18180
+    },
+    {
+      "duration": 180,
+      "offset": 18360
+    },
+    {
+      "duration": 180,
+      "offset": 18540
+    },
+    {
+      "duration": 180,
+      "offset": 18900
+    },
+    {
+      "duration": 180,
+      "offset": 19080
+    },
+    {
+      "duration": 180,
+      "offset": 19440
+    },
+    {
+      "duration": 180,
+      "offset": 19620
+    },
+    {
+      "duration": 180,
+      "offset": 19980
+    },
+    {
+      "duration": 180,
+      "offset": 20160
+    },
+    {
+      "duration": 180,
+      "offset": 20340
+    },
+    {
+      "duration": 180,
+      "offset": 20520
+    },
+    {
+      "duration": 180,
+      "offset": 20700
+    },
+    {
+      "duration": 180,
+      "offset": 21060
+    },
+    {
+      "duration": 180,
+      "offset": 21240
+    },
+    {
+      "duration": 180,
+      "offset": 21600
+    },
+    {
+      "duration": 180,
+      "offset": 21780
+    },
+    {
+      "duration": 180,
+      "offset": 22140
+    },
+    {
+      "duration": 180,
+      "offset": 22320
+    },
+    {
+      "duration": 180,
+      "offset": 22680
+    },
+    {
+      "duration": 180,
+      "offset": 22860
+    },
+    {
+      "duration": 180,
+      "offset": 23220
+    },
+    {
+      "duration": 180,
+      "offset": 23400
+    },
+    {
+      "duration": 180,
+      "offset": 23580
+    },
+    {
+      "duration": 180,
+      "offset": 23760
+    },
+    {
+      "duration": 180,
+      "offset": 23940
+    },
+    {
+      "duration": 180,
+      "offset": 24120
+    },
+    {
+      "duration": 180,
+      "offset": 24300
+    },
+    {
+      "duration": 180,
+      "offset": 24480
+    },
+    {
+      "duration": 180,
+      "offset": 24660
+    },
+    {
+      "duration": 180,
+      "offset": 25020
+    },
+    {
+      "duration": 180,
+      "offset": 25200
+    },
+    {
+      "duration": 180,
+      "offset": 25560
+    },
+    {
+      "duration": 180,
+      "offset": 25740
+    },
+    {
+      "duration": 180,
+      "offset": 26100
+    },
+    {
+      "duration": 180,
+      "offset": 26280
+    },
+    {
+      "duration": 180,
+      "offset": 26640
+    },
+    {
+      "duration": 180,
+      "offset": 26820
+    },
+    {
+      "duration": 140,
+      "offset": 27180
+    }
+  ],
+  "created_at_for_paths": "2025_07_26T12_00_04Z",
+  "created_at_millis": 1753531204000,
+  "created_at_year": 2025,
+  "created_at_month": 7,
+  "created_at_date": 26,
+  "created_at_hour": 12,
+  "created_at_minute": 0,
+  "created_at_second": 4,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_07_26T12_00_04Z",
+  "published_at_millis": 1753531204000,
+  "published_at_year": 2025,
+  "published_at_month": 7,
+  "published_at_date": 26,
+  "published_at_hour": 12,
+  "published_at_minute": 0,
+  "published_at_second": 4,
+  "published_at_millisecond": 0
+}
