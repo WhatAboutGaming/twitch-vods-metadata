@@ -1,0 +1,42 @@
+{
+  "id": "2656321465",
+  "stream_id": "316778742262",
+  "user_id": "39127626",
+  "user_login": "whataboutgaminglive",
+  "user_name": "WhatAboutGamingLive",
+  "title": "Car game that's not GTA VCS (Most Wanted 2005)",
+  "description": "",
+  "created_at": "2025-12-30T00:28:27Z",
+  "published_at": "2025-12-30T00:28:27Z",
+  "url": "https://www.twitch.tv/videos/2656321465",
+  "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/8c9a58b2da8fe7f7fcd5_whataboutgaminglive_316778742262_1767054500//thumb/thumb0-%{width}x%{height}.jpg",
+  "viewable": "public",
+  "view_count": 0,
+  "language": "en",
+  "type": "archive",
+  "duration": "2h18m0s",
+  "muted_segments": [
+    {
+      "duration": 180,
+      "offset": 2880
+    }
+  ],
+  "created_at_for_paths": "2025_12_30T00_28_27Z",
+  "created_at_millis": 1767054507000,
+  "created_at_year": 2025,
+  "created_at_month": 12,
+  "created_at_date": 30,
+  "created_at_hour": 0,
+  "created_at_minute": 28,
+  "created_at_second": 27,
+  "created_at_millisecond": 0,
+  "published_at_for_paths": "2025_12_30T00_28_27Z",
+  "published_at_millis": 1767054507000,
+  "published_at_year": 2025,
+  "published_at_month": 12,
+  "published_at_date": 30,
+  "published_at_hour": 0,
+  "published_at_minute": 28,
+  "published_at_second": 27,
+  "published_at_millisecond": 0
+}
